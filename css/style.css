@@ -287,3 +287,41 @@ body {
 .en-name {
     color: #A5A5A5;
 }
+
+.section-news-title {
+    font-weight: 900;
+    color: #000000;
+    margin-bottom: 65px;
+}
+
+.news {
+    background-color: #F3F3F3;
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+
+.news-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.news-card {
+    flex-basis: 23%;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.news-date {
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.news-title {
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+    margin-bottom: 14px;
+}
